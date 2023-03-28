@@ -1,1 +1,0 @@
-sudo cp /home/ubuntu/dependencies/test.js /home/ubuntu/actions-runner/react-app/reactjstime/reactjstime/build/
